@@ -23,4 +23,4 @@
 
 ### 4. Ejecutar servidor
 - php artisan serve --host=##.##.##.## --port=8000
-  (Donde estan los numerales # poner la IP de tu PC). Para que funcione las llamadas a la API desde el celular
+- (Donde estan los numerales # poner la IP de tu PC). Para que funcione las llamadas a la API desde el celular
